@@ -1,1 +1,2 @@
-# https://section9new.github.io/SileoTH/
+# SileoTH Repo
+# Cydia & Sileo Source
