@@ -1,8 +1,8 @@
-Origin: Section9JB Repo
-Label: Section9JB Repo
+Origin: SileoTH Repo
+Label: SileoTH Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Section9JB Repo
+Description: SileoTH Repo
