@@ -1,2 +1,2 @@
-# SileoTH
-SileoTH Repo
+# SileoTH Repo
+Cydia & Sileo Source
